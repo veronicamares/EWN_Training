@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Leave</name>
+   <tag></tag>
+   <elementGuidId>8f98df9c-5f87-40a3-8718-28476dd69432</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_leave_viewMyLeaveList']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_leave_viewMyLeaveList</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3045add5-421d-4735-853e-0d7f397edc7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/leave/viewMyLeaveList/reset/1</value>
+      <webElementGuid>30cb7af6-3a94-4abd-8f4d-4ee06e367fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_leave_viewMyLeaveList</value>
+      <webElementGuid>4b78daf4-613e-4526-ab3d-4b087e6f62d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Leave</value>
+      <webElementGuid>d740554c-063b-4f81-bd1a-e26371df807d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_leave_viewMyLeaveList&quot;)</value>
+      <webElementGuid>3163d8dc-64cc-4fb5-be81-4f6252de1142</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_leave_viewMyLeaveList']</value>
+      <webElementGuid>a9250cd1-866f-4dcb-8355-86f112f417b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li[3]/ul/li[2]/a</value>
+      <webElementGuid>d46b2f3f-3c0a-4aee-aaa2-2e3ffbf1f9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Leave')]</value>
+      <webElementGuid>155d2020-f686-4ec5-b8a7-845bd7cfb168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::a[1]</value>
+      <webElementGuid>66eacc5f-c080-4f3f-9e16-ee0bda16770d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave'])[1]/following::a[2]</value>
+      <webElementGuid>2c37e0af-eeb5-4e1d-b03c-15ab74bf5dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Entitlements'])[1]/preceding::a[2]</value>
+      <webElementGuid>3825c1ab-d56e-49cc-b1c7-6d4cf4eeb324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Entitlements'])[1]/preceding::a[3]</value>
+      <webElementGuid>f85ee82b-7606-4bab-8994-905768120d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Leave']/parent::*</value>
+      <webElementGuid>870f4d6b-3089-48e2-a29d-7ca63640a79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/leave/viewMyLeaveList/reset/1')]</value>
+      <webElementGuid>6cebcb83-fa82-4a67-a6fb-018e449230ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a</value>
+      <webElementGuid>08c259b5-d8d2-4246-a6a5-44e037f5091b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/leave/viewMyLeaveList/reset/1' and @id = 'menu_leave_viewMyLeaveList' and (text() = 'My Leave' or . = 'My Leave')]</value>
+      <webElementGuid>c74eb37e-9385-4984-9ccb-0bd80263e163</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

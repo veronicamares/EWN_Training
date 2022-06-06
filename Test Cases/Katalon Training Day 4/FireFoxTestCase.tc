@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>use to verify firefox works</description>
+   <name>FireFoxTestCase</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>ebbc789a-af3e-4441-88d3-088ddb6821ee</testCaseGuid>
+</TestCaseEntity>

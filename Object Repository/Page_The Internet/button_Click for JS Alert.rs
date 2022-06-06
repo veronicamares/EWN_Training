@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click for JS Alert</name>
+   <tag></tag>
+   <elementGuidId>23688f34-dcc7-4d2e-913c-59c6472f83ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='jsAlert()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d3fd3628-0e5e-40cd-bcbb-831ccf8b7f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>jsAlert()</value>
+      <webElementGuid>287da448-4612-4a4c-bc26-73cfd04b6b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click for JS Alert</value>
+      <webElementGuid>61d86165-dced-4507-ac57-6168ad85f33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/ul[1]/li[1]/button[1]</value>
+      <webElementGuid>5b1e20b9-a9cc-4bfc-924c-1dfaf8594ce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='jsAlert()']</value>
+      <webElementGuid>578d7208-863f-41e8-bfe6-fec73489ebe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/ul/li/button</value>
+      <webElementGuid>881b9d8d-4ef7-45f8-909b-3e273b428aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript Alerts'])[1]/following::button[1]</value>
+      <webElementGuid>40aeee62-a079-4bce-8bda-0ea0f7e374a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Confirm'])[1]/preceding::button[1]</value>
+      <webElementGuid>59a9af1f-3ff0-4693-be2c-68dc3888b7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Prompt'])[1]/preceding::button[2]</value>
+      <webElementGuid>40f6b70e-3fa9-4de8-9c1f-3451fb2ab9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click for JS Alert']/parent::*</value>
+      <webElementGuid>c4c51dde-3988-4dfb-b4a9-6f2e32f9aaa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>e466bea7-18c9-4fb9-a1e7-d90735242072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Click for JS Alert' or . = 'Click for JS Alert')]</value>
+      <webElementGuid>9d07cce2-7c06-4611-b9a6-ee9572dc2117</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

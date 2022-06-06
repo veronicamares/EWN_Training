@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day 3 training</description>
+   <name>HomePageTest</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>4ce93a4a-384a-41be-a3f8-fbd73157812b</testCaseGuid>
+</TestCaseEntity>

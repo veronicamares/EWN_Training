@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Time</name>
+   <tag></tag>
+   <elementGuidId>56c306bc-c7d0-4945-b207-2676a39a2264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_time_viewTimeModule']/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_time_viewTimeModule > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>e11d3820-73a7-4e18-a5e8-b77520d8654b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time</value>
+      <webElementGuid>f0f8298c-175f-4ee6-85b3-02ba921dd4fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_time_viewTimeModule&quot;)/b[1]</value>
+      <webElementGuid>a5ff4bc6-45fe-421e-9d74-4e83d204f8d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu_time_viewTimeModule']/b</value>
+      <webElementGuid>ca79bc1f-308e-4e98-a99f-b56f50a7cb45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Leave'])[1]/following::b[1]</value>
+      <webElementGuid>2d1326ad-170a-40af-bf8e-8828b2dc6157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave List'])[1]/following::b[1]</value>
+      <webElementGuid>cb69c72f-6531-4b8f-92cd-fa1c6f01d282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Timesheets'])[1]/preceding::b[1]</value>
+      <webElementGuid>083466f5-2094-4295-9741-997187b2f7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Timesheets'])[1]/preceding::b[1]</value>
+      <webElementGuid>9fb4229d-10a5-48f4-a6b2-f54a2932b501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Time']/parent::*</value>
+      <webElementGuid>2373a76a-f37b-4fc4-8db8-6b26e12d10ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/b</value>
+      <webElementGuid>b05b2434-bc75-484c-b8cd-c07e81cb0e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Time' or . = 'Time')]</value>
+      <webElementGuid>4cbc8024-9284-42ad-8a8e-7e654e9292dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

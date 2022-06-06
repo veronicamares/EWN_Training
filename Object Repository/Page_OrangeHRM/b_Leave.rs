@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Leave</name>
+   <tag></tag>
+   <elementGuidId>7cab798d-7ea8-417f-b5bc-f3c77b44cb71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_leave_viewLeaveModule']/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_leave_viewLeaveModule > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>5b0c80d7-48cd-4708-98b3-59c7cb13c301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave</value>
+      <webElementGuid>e8ca78f9-dd8b-480c-a99f-6a94a5fe0491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_leave_viewLeaveModule&quot;)/b[1]</value>
+      <webElementGuid>037000d1-802e-48e3-9a05-7f05959fdb48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu_leave_viewLeaveModule']/b</value>
+      <webElementGuid>1b089870-c81d-498d-9f27-afd0656b03ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::b[1]</value>
+      <webElementGuid>cbb31122-f368-4fdb-b097-54973f72f8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Employee'])[1]/following::b[1]</value>
+      <webElementGuid>0ea65b5f-ce85-4947-a729-a16a0fe245b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::b[1]</value>
+      <webElementGuid>734dc0df-58d3-429e-8ee1-473a4a1450e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Leave'])[1]/preceding::b[1]</value>
+      <webElementGuid>ce85c068-5757-4bc1-9489-9cec9729bfdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Leave']/parent::*</value>
+      <webElementGuid>8509fb91-7cc2-441e-b78f-2be37b56322d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/b</value>
+      <webElementGuid>f29ada27-7dd7-4dd2-ae9f-38708d7502e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Leave' or . = 'Leave')]</value>
+      <webElementGuid>fcab2f2b-8e4e-4346-9b82-3c9d4a6d2dd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

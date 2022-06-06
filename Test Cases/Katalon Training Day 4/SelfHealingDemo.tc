@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day 4-Self healing demo</description>
+   <name>SelfHealingDemo</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>19a80bb9-8474-474f-b890-8a2f4eade162</testCaseGuid>
+</TestCaseEntity>

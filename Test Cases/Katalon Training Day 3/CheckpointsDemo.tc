@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day 3-checkpoint demo</description>
+   <name>CheckpointsDemo</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>a1c4dd7a-90d3-4301-a05a-839b4cb6a238</testCaseGuid>
+</TestCaseEntity>

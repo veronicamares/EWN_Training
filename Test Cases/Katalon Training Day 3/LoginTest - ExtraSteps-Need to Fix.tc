@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day 3 training session</description>
+   <name>LoginTest - ExtraSteps-Need to Fix</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>e60163a0-3960-46d2-9539-e52e6c9cc7b8</testCaseGuid>
+</TestCaseEntity>

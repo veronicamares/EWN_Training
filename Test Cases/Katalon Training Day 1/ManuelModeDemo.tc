@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manual mode demo test case.</description>
+   <name>ManuelModeDemo</name>
+   <tag>@demo, @manual</tag>
+   <comment></comment>
+   <testCaseGuid>6206d999-bb0f-4efa-92b7-53fdfefde7cd</testCaseGuid>
+</TestCaseEntity>

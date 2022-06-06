@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1st Day of Katalon training with Raghav Pal</description>
+   <name>DemoTest1</name>
+   <tag>@regression, @demo</tag>
+   <comment></comment>
+   <testCaseGuid>81cc8c72-22c7-47bd-ac0e-82a6194c1714</testCaseGuid>
+</TestCaseEntity>

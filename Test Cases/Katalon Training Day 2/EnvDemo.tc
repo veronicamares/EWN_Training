@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day 2-Environment demo</description>
+   <name>EnvDemo</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>a5bb70d0-3d12-4f4f-b70a-280c8695da7e</testCaseGuid>
+</TestCaseEntity>

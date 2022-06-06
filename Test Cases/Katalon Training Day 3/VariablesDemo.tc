@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day 3-Variables demo testing</description>
+   <name>VariablesDemo</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>fa4cf822-401a-4cb9-918f-5dca8542107e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b05e35b8-14fb-4cf2-ab7d-e720749a6262</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Victoria'</defaultValue>
+      <description></description>
+      <id>b05e35b8-14fb-4cf2-ab7d-e720749a6262</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
