@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day 5-git demo</description>
+   <name>GitDemo</name>
+   <tag>@demo</tag>
+   <comment></comment>
+   <testCaseGuid>b53f6499-5c79-4a06-94f1-201bbee4b47b</testCaseGuid>
+</TestCaseEntity>
